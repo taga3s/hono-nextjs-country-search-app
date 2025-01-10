@@ -1,3 +1,3 @@
-# Country search app with Next.js, Hono, Redis and Cloudflare
+# hono-nextjs-country-search-app
 
-- I made this project by watching this [yt video](https://www.youtube.com/watch?v=2Y3A4deNs9A). Thanks!
+- I build this project by watching https://www.youtube.com/watch?v=2Y3A4deNs9A. Thanks!
